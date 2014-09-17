@@ -1,3 +1,10 @@
 body {
-    background-color: cyan;
+    background-image: url("http://images2.alphacoders.com/127/127972.jpg");
+}
+p {
+    color: darkgoldenrod;
+}
+
+nav {
+    color: darkgoldenrod;
 }
